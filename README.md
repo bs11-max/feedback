@@ -2,6 +2,11 @@
 
 수업 만족도를 익명으로 수집하고, Supabase Authentication으로 로그인한 관리자만 결과를 조회·초기화할 수 있는 초소형 웹앱입니다.
 
+## 운영 주소
+
+- 웹앱: https://feedback-sangmin11.vercel.app
+- GitHub: https://github.com/bs11-max/feedback
+
 ## 구성
 
 - HTML, CSS, JavaScript 단일 페이지
