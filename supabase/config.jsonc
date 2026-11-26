@@ -1,0 +1,12 @@
+{
+  "$schema": "https://supabase.com/schemas/config/v1.json",
+  "project_id": "feedback",
+  "auth": {
+    "enabled": true,
+    "enable_signup": false,
+    "enable_anonymous_sign_ins": false,
+    "email": {
+      "enabled": true
+    }
+  }
+}
